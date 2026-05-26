@@ -6,6 +6,7 @@ Remember, the goal of this project is to use your SQL skills to extract meaningf
 
 
 SQL Tasks :
+
 A) Marketing Analysis:
 
 
